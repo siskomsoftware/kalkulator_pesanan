@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KalkulatorPesanan">
         <activity
+            android:name=".AddActivity"
+            android:label="Tambahkan Pesanan"
+            android:parentActivityName=".MainActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

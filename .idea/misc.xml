@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Studio Project/KalkulatorPesanan/app/src/main/res/layout/activity_main.xml" value="0.10916919959473151" />
+        <entry key="..\:/Android Studio Project/KalkulatorPesanan/app/src/main/res/drawable/background_radius_putih.xml" value="0.240625" />
+        <entry key="..\:/Android Studio Project/KalkulatorPesanan/app/src/main/res/layout/activity_add.xml" value="0.33" />
+        <entry key="..\:/Android Studio Project/KalkulatorPesanan/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio Project/KalkulatorPesanan/app/src/main/res/layout/my_row.xml" value="0.33" />
       </map>
     </option>
   </component>
